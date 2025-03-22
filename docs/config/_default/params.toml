@@ -1,0 +1,26 @@
+uniqueHomePage = false
+repo = "https://github.com/EllaFoxo/Amplify-Probe"
+time_format_blog = "Monday, January 02, 2006"
+time_format_default = "January 2, 2006"
+enableDarkMode = true
+defaultLightingMode = "auto"
+codeMaxLines = 20
+showLineNumbers = true
+enableCopyright = false
+
+[search]
+on = false
+global = false
+
+[search.algolia]
+enable = false
+
+[logo]
+  lightMode = "images/logo.svg"
+  darkMode = "images/logo.svg"
+
+[source]
+  name = "GitHub"
+  iconLight = "images/GitHubMarkLight.svg"
+  iconDark = "images/GitHubMarkDark.svg"
+  url = "https://github.com/EllaFoxo/Amplify-Probe"
