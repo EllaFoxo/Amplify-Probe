@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Amplify")(type "KiCad")(uri "${KIPRJMOD}/Amplify.pretty")(options "")(descr ""))
+)

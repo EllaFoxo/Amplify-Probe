@@ -1,0 +1,118 @@
+(footprint "LDO_Logo"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -5.2 -0.7 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "0727fbfb-cf84-41d0-824d-67624055bd73")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "LDO_Logo"
+		(at -5.2 0.8 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f6f13e51-198f-4955-8fe5-57844c2d71c2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0e5c98af-bf04-49bd-a918-7121d12e68a4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7d6da73f-bc4c-46a6-8f2f-92c8a0b00e95")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0.6 0)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "105944e3-cb96-4866-af54-41d3994702d5")
+	)
+	(fp_poly
+		(pts
+			(xy 1.2 -2) (xy -2 -2) (xy -2 1.2) (xy -1.2 2) (xy 2 2) (xy 2 -1.2)
+		)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "12dd9142-c8bd-4c63-a3a3-37af2582690d")
+	)
+	(fp_poly
+		(pts
+			(xy -1.52 -1.04) (xy -1.52 0.8) (xy -0.8 1.52) (xy 1.04 1.52) (xy 0.64 1.12) (xy -0.597911 1.12)
+			(xy -1.12 0.59791) (xy -1.12 -0.64)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "289b523a-dc54-42c1-ae46-f528eaf9ce9c")
+	)
+	(fp_poly
+		(pts
+			(arc
+				(start -0.533708 -0.845668)
+				(mid -0.692091 -0.721809)
+				(end -0.822495 -0.56877)
+			)
+			(xy -1.52 -1.266274) (xy -1.52 -1.52) (xy 0.88 -1.52) (xy 1.52 -0.88) (xy 1.52 1.52) (xy 1.266274 1.52)
+			(arc
+				(start 0.568771 0.822496)
+				(mid 0.72181 0.692091)
+				(end 0.845669 0.533708)
+			)
+			(xy 1.12 0.80804) (xy 1.12 -0.55196) (xy 0.55196 -1.12) (xy -0.80804 -1.12) (xy -0.533709 -0.845669)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "1ff7b2e1-1ea5-40ba-8bfc-c20a68609b7d")
+	)
+	(embedded_fonts no)
+)
