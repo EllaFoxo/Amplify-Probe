@@ -1,6 +1,5 @@
-# Amplify Probe
-
-A bed-based load cell probe for Klipper enabled 3D printers.
+# Amplify Toolhead
+A Voron toolhead with integrated load cell
 
 ## License
 
