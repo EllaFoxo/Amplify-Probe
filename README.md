@@ -1,8 +1,6 @@
 # Amplify Toolhead
 A Voron toolhead with integrated load cell.
 
-## Development kindly sponsored by Fabreeko and LDO Motors
-
 ## FAQ
 
 ### Accuracy
@@ -45,6 +43,12 @@ Lots of incredibly talented people are working on load cell probing. To name a f
 - Klipper software integration and filter design by [Gareth Farrington](https://github.com/garethky)
 - Research and development support by [ChipCE](https://github.com/ChipCE)
 - Beta unit aseembly in the USA by [Shammy](https://xrbunker.works/)
+
+## Sponsors
+
+Development has been kindly funded and supported by:
+- [Fabreeko](https://fabreeko.com)
+- [LDO Motors](https://www.ldomotion.com/p/about)
 
 ## Special Thanks
 
