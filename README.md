@@ -1,5 +1,5 @@
 # Amplify Toolhead
-A Voron toolhead with integrated load cell.
+A Voron toolhead with integrated load cell for Z probing and bed meshing.
 
 ## FAQ
 
