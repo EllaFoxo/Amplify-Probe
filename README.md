@@ -1,6 +1,8 @@
 # Amplify Toolhead
 A Voron toolhead with integrated load cell.
 
+## Development kindly sponsored by Fabreeko and LDO Motors
+
 ## FAQ
 
 ### Accuracy
