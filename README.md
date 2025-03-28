@@ -37,6 +37,27 @@ A Voron toolhead with integrated load cell.
 When:
 - Soon™
 
+## Credits
+
+Lots of incredibly talented people are working on load cell probing. To name a few:-
+
+- Hardware design by [Ella Fox](https://github.com/EllaFoxo)
+- Klipper software integration and filter design by [Gareth Farrington](https://github.com/garethky)
+- Research and development support by [ChipCE](https://github.com/ChipCE)
+- Beta unit aseembly in the USA by [Shammy](https://xrbunker.works/)
+
+## Special Thanks
+
+- [Ashlyn Black](https://github.com/ashlynblack)
+- [David](https://github.com/cneshi) - LDO Motors
+- [Hector](https://fabreeko.com) - Fabreeko
+- [Jason](https://github.com/jason7594) - LDO Motors
+- [Juniper Reuter](https://github.com/brueter) - PR-J
+- [Nomads Galaxy](https://www.youtube.com/@nomadsgalaxy) - Positron 3D
+- [Prusa Research](https://prusa3d.com)
+- [Sample Name](https://github.com/fabian-bxr) - Positron 3D
+- [Róbert Lőrincz](https://www.orbiterprojects.com/) - Orbiter Projects
+
 ## License
 
 Apache 2.0. Please see the license file for full terms.
