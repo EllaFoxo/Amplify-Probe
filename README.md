@@ -25,6 +25,7 @@ A Voron toolhead with integrated load cell for Z probing and bed meshing.
 
 ### Hardware:
 - Entirely custom toolhead PCB using STM32G0
+- Custom hotend with versions for E3D Revo and standard V6 nozzles
 - Rated to 80C operating temperature
 - Possibility for a “pro” version rated to 110C, with a fancier ADC
 - Fully Open Source Hardware
@@ -43,7 +44,7 @@ Lots of incredibly talented people are working on load cell probing. To name a f
 - Hardware design by [Ella Fox](https://github.com/EllaFoxo)
 - Klipper software integration and filter design by [Gareth Farrington](https://github.com/garethky)
 - Research and development support by [ChipCE](https://github.com/ChipCE)
-- Beta unit aseembly in the USA by [Shammy](https://xrbunker.works/)
+- Beta unit assembly in the USA by [Shammy](https://xrbunker.works/)
 
 ## Sponsors
 
