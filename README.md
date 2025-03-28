@@ -15,6 +15,7 @@ A Voron toolhead with integrated load cell for Z probing and bed meshing.
 
 ### Compatibility:
 - Voron 0, Trident, 2.4, and Switchwire
+- Positron 3.x support coming soon with a new toolhead PCB
 - RatRig V-Core 3/4, probably.
 
 ### Software:
