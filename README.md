@@ -1,10 +1,10 @@
-# Amplify Toolhead
-A Voron toolhead with integrated load cell for Z probing and bed meshing.
+# Amplify Probe
+Load cell probing hardware for Klipper enabled 3D printers
 
 ## FAQ
 
 ### Accuracy:
-- Down to the Micron
+- Down to the micrometer
 - Competitive with Voron Tap
 - Reliable with only a single probe point
 - No more Z offset adjustments ever again
@@ -13,28 +13,25 @@ A Voron toolhead with integrated load cell for Z probing and bed meshing.
 - 5g to 100g depending on the probing speed
 - Low enough force to use on cantilever and PCB beds
 
-### Compatibility:
-- Voron 0, Trident, 2.4, and Switchwire
-- Positron 3.x support coming soon with a new toolhead PCB
-- RatRig V-Core 3/4, probably.
+### Compatibility on release:
+- Stealthburner
+- MiniSB
+- Positron 3.x with a new toolhead PCB
 
 ### Software:
 - Native Klipper integration, no plugins required!
 - [TBC] Live sensor data available in Mainsail/Fluidd
 - [TBC] Clog detection
 
-### Hardware:
-- Entirely custom toolhead PCB using STM32G0
+### Amplify Probe Standalone (SA) Hardware:
+- Custom add-on board for the toolhead
+- Same mounting pattern and size as the E3D PZ probe board
 - Custom hotend with versions for E3D Revo and standard V6 nozzles
 - Rated to 80C operating temperature
-- Possibility for a “pro” version rated to 110C, with a fancier ADC
+- Possibility for a “pro” version rated to 110C, with a higher speed ADC
 - Fully Open Source Hardware
 
-### Amplify Probe:
-- Standalone ADC module for custom toolheads
-- Maybe? Depending on demand
-
-When:
+### When:
 - Soon™
 
 ## Credits
